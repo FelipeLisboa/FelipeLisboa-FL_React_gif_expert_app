@@ -5,7 +5,7 @@ import {GifGrid} from './components/GifGrid';
 export const GifExpertApp = () => {
 
 
-    const [categories, setCategories] = useState(['Dragon Ball']);
+    const [categories, setCategories] = useState(['Nissan GTR']);
 
 //    const handleAdd = () => {
 //        //setCategories([...categories, 'HunterXHunter']); //[...categories] obtiene los objetos del arreglo y se añade otra
